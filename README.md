@@ -98,3 +98,7 @@ Scanning for projects.../
 - Consulter le drive pour connaître la spec et les use-cases.
 - Des modifications ont eu lieu lors de la première release de la R2. [politique de nommage a été rediscuté, tous les fichiers de config sont nommés en miniscule, suppression des noms clés tels que Interfarce, thread]
 - 
+
+
+![stack Overflow](http://lmsotfy.com/so.png) 
+
