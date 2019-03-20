@@ -100,5 +100,5 @@ Scanning for projects.../
 - 
 
 
-![stack Overflow](http://lmsotfy.com/so.png) 
+ 
 
