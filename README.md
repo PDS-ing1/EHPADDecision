@@ -5,12 +5,12 @@
 ## Sommaire
 - [Préalable](#Préalable)
 - [Projet](#Projet)
-	- [Politique de nommage](#Politique de nommage)
-	- [Organisation du projet Maven](#Organisation du projet Maven)
+	- [Politique de nommage] (#Politique de nommage)
+	- [Organisation du projet Maven] (#Organisation du projet Maven)
 	- [Git-Eclipse; Eclipse-Git](#Git-Eclipse)
-	- [Generation de l’artefact JAVA : JAR](#Generation de l'artefact JAVA: JAR)
-- [Scenario de demonstration pour la release 1 ](#Release 1)
-- [Scenario de demonstration pour la release 2 ](#Release 2)
+	- [Generation de l’artefact JAVA : JAR] (#Generation de l'artefact JAVA: JAR)
+- [Scenario de demonstration pour la release 1 ] (#Release 1)
+- [Scenario de demonstration pour la release 2 ] (#Release 2)
 - [Quelques conseils]
 
 ## Prélable
@@ -26,7 +26,7 @@
 - Le nom des variables ainsi que le nom des méthodes seront en anglais
 	Chaque classe doit avoir un nom clair et réprésetant.
 
-## [Organisation du projet Maven]
+## Organisation du projet Maven
 - le projet contient différents branches, dans le src/main/java on trouve les classes suivantes: 
 	App, DataSource, JDBCConnection ces classes permettent de créer un pool de connexion. 
 	Fichier pom contient la configuratin du projet. 
