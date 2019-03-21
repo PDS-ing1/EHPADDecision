@@ -7,7 +7,7 @@
 - [Projet](#Projet)
 	- [Politique de nommage] (#Politique de nommage)
 	- [Organisation du projet Maven] (#Organisation du projet Maven)
-	- [Git-Eclipse; Eclipse-Git](#Git-Eclipse; Eclipse-Git)
+	- [Git-Eclipse; Eclipse-Git] (#Etapes de generation via Eclipse (l'outil utilisé) 
 	- [Generation de l’artefact JAVA : JAR] (#Generation de l'artefact JAVA: JAR)
 - [Scenario de demonstration pour la release 1 ] (#Release 1)
 - [Scenario de demonstration pour la release 2 ] (#Release 2)
