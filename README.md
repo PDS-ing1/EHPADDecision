@@ -3,7 +3,7 @@
 # EHPADDECISION
 dépôt dédiés au PDS
 #Sommaire
-- [Préalable]
+- [Préalable](#avant-de-commencer)
 - [Politique de nommage]
 - [Organisation du projet Maven] 
 - [Git-Eclipse; Eclipse-Git]
