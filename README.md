@@ -1,7 +1,8 @@
- ![EHPAD Decision](https://github.com/PDS-ing1/PDS/blob/master/Ehpaddecision.png)
+   ![EHPAD Decision](https://github.com/PDS-ing1/PDS/blob/master/Ehpaddecision.png)
+   
+# EHPADDECISION
 
-#### EHPADDECISION
-#Sommaire
+## Sommaire
 - [Préalable](#Préalable)
 - [Projet](#Projet)
 	- [Politique de nommage](#Politique de nommage)
