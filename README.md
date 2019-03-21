@@ -32,7 +32,7 @@ dépôt dédiés au PDS
 
 ## Etapes de generation via Eclipse (l'outil utilisé) 
  Artifact Maven est une classe Java qui représente le type de "nom" qui est déréférencé par un gestionnaire de référentiel dans un artefact de gestionnaire de référentiel. Lorsqu'il est utilisé dans ce sens, un Artifact est simplement un nom glorifié composé de parties telles que groupId , artifactId , version , scope , classifier et ainsi de suite.
-1. Faites : clic-droit sur le projet Monitrack > Run As > Run Configurations
+1. Faites : clic-droit sur le projet EHPADDECISION > Run As > Run Configurations
 2. Dans la fenêtre qui va s'ouvrir et dans la partie Maven Build, sélectionnez le module que vous voulez générer
 3. Dans la partie goals, y écrire :
 ```
